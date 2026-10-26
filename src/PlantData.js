@@ -1,0 +1,22 @@
+const plants = [
+  { id: "snake-plant", name: "Snake Plant", category: "Easy Care", price: 399, image: "https://images.unsplash.com/photo-1593482892290-f54927ae2b1b?auto=format&fit=crop&w=700&q=80", description: "A sculptural, low-maintenance favourite." },
+  { id: "zz-plant", name: "ZZ Plant", category: "Easy Care", price: 449, image: "https://images.unsplash.com/photo-1632207691143-643e2c7a4e2f?auto=format&fit=crop&w=700&q=80", description: "Glossy leaves and an easygoing nature." },
+  { id: "pothos", name: "Golden Pothos", category: "Easy Care", price: 299, image: "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?auto=format&fit=crop&w=700&q=80", description: "A trailing green plant for shelves." },
+  { id: "spider-plant", name: "Spider Plant", category: "Easy Care", price: 279, image: "https://images.unsplash.com/photo-1572688484438-313a6e50c333?auto=format&fit=crop&w=700&q=80", description: "Fresh arching leaves for bright rooms." },
+  { id: "peace-lily", name: "Peace Lily", category: "Easy Care", price: 499, image: "https://images.unsplash.com/photo-1593691509543-c55fb32e5cee?auto=format&fit=crop&w=700&q=80", description: "Elegant foliage with graceful white blooms." },
+  { id: "jade-plant", name: "Jade Plant", category: "Easy Care", price: 349, image: "https://images.unsplash.com/photo-1509423350716-97f9360b4e09?auto=format&fit=crop&w=700&q=80", description: "A compact succulent with fleshy leaves." },
+  { id: "monstera", name: "Monstera Deliciosa", category: "Statement Plants", price: 899, image: "https://images.unsplash.com/photo-1614594895304-fe7116ac3b58?auto=format&fit=crop&w=700&q=80", description: "Bold split leaves make a striking statement." },
+  { id: "rubber-plant", name: "Rubber Plant", category: "Statement Plants", price: 799, image: "https://images.unsplash.com/photo-1616630065474-7b7e3f4c2b7c?auto=format&fit=crop&w=700&q=80", description: "Deep green leaves with a polished finish." },
+  { id: "fiddle-leaf", name: "Fiddle Leaf Fig", category: "Statement Plants", price: 1299, image: "https://images.unsplash.com/photo-1597055181300-4a4c3e5a0a8f?auto=format&fit=crop&w=700&q=80", description: "Large violin-shaped leaves for open corners." },
+  { id: "bird-paradise", name: "Bird of Paradise", category: "Statement Plants", price: 1499, image: "https://images.unsplash.com/photo-1597055181449-1d7c8f3a3e4d?auto=format&fit=crop&w=700&q=80", description: "Tropical foliage with a dramatic silhouette." },
+  { id: "areca-palm", name: "Areca Palm", category: "Statement Plants", price: 999, image: "https://images.unsplash.com/photo-1512428813834-c702c7702b78?auto=format&fit=crop&w=700&q=80", description: "Feathery fronds add a tropical feeling." },
+  { id: "dracaena", name: "Dracaena Marginata", category: "Statement Plants", price: 849, image: "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=700&q=80", description: "Upright stems and narrow, elegant leaves." },
+  { id: "aloe", name: "Aloe Vera", category: "Sun Lovers", price: 249, image: "https://images.unsplash.com/photo-1509423350716-97f9360b4e09?auto=format&fit=crop&w=700&q=80", description: "A sun-loving succulent with fleshy leaves." },
+  { id: "echeveria", name: "Echeveria", category: "Sun Lovers", price: 199, image: "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?auto=format&fit=crop&w=700&q=80", description: "A rosette-shaped succulent for sunny windows." },
+  { id: "string-pearls", name: "String of Pearls", category: "Sun Lovers", price: 399, image: "https://images.unsplash.com/photo-1459156212016-c812468e2115?auto=format&fit=crop&w=700&q=80", description: "Bead-like foliage that spills over a pot." },
+  { id: "haworthia", name: "Haworthia", category: "Sun Lovers", price: 229, image: "https://images.unsplash.com/photo-1509423350716-97f9360b4e09?auto=format&fit=crop&w=700&q=80", description: "A compact succulent with patterned leaves." },
+  { id: "cactus", name: "Mini Cactus", category: "Sun Lovers", price: 179, image: "https://images.unsplash.com/photo-1509937528035-ad76254b0356?auto=format&fit=crop&w=700&q=80", description: "A tiny desert accent for a bright sill." },
+  { id: "kalanchoe", name: "Kalanchoe", category: "Sun Lovers", price: 329, image: "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=700&q=80", description: "A cheerful flowering succulent." }
+];
+
+export default plants;
